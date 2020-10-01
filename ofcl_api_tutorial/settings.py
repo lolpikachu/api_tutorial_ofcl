@@ -80,7 +80,7 @@ if DEBUG == False:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'api_example',
+            'NAME': 'ofcl_api',
             'USER': 'pikachu',
             'PASSWORD': '350350f350350f',
             'HOST': 'localhost',
